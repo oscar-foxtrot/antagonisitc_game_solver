@@ -6,7 +6,7 @@ What to include? <br>
 from antagonistic_game.matrix_game import nash_equilibrium <br>
 from antagonistic_game.matrix_game import visualize <br>
 
-How it works?
+How does it work?
 - "nash_equilibrium" function takes a numpy matrix representing the game and returns the game solution as a tuple: game value, first player's optimal strategies and the second player's optimal strategies <br>
 - "visualize" function takes two parameters: the game matrix and a tuple fo 2 elements: a numpy array of the first player's strategies and a numpy array of the second player's strategies. <br>
 
