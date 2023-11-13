@@ -169,7 +169,7 @@ def visualize(matrix: np.ndarray, spectrum: Tuple[np.ndarray, np.ndarray]):
     import matplotlib.pyplot as plt
     import seaborn as sns
     
-    # Visualizing heatmap
+    # Visualizing the heatmap
     
     fig = plt.figure()
     plt.title('Heatmap for the game matrix')
