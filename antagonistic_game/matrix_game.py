@@ -147,7 +147,6 @@ def nash_equilibrium(payoff_matrix: np.ndarray) -> \
     else:
         q = res.x/value
     
-    matrix -= correcting_val
     return (1/value - correcting_val, p, q)
 
 
