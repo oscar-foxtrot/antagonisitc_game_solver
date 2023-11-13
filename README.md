@@ -1,6 +1,6 @@
 This package is intended to be used for zero-sum (=antagonistic) matrix game solving and visualization of the solutions.
 
-See [this notebook] (https://github.com/oscar-foxtrot/antagonistic_game_solver/blob/main/Workflow.ipynb) for illustrations 🎨
+See [this Jupyter notebook](https://github.com/oscar-foxtrot/antagonistic_game_solver/blob/main/Workflow.ipynb) for illustrations 🎨
 
 What to include?
 from antagonistic_game.matrix_game import nash_equilibrium
