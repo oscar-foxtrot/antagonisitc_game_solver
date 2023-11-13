@@ -2,6 +2,9 @@ This package is intended to be used for zero-sum (=antagonistic) matrix game sol
 
 See [the Jupyter notebook](https://github.com/oscar-foxtrot/antagonistic_game_solver/blob/main/Workflow.ipynb) for examples and illustrations 🎨 <br>
 
+How to install? <br>
+pip install antagonistic_game <br>
+
 What to include? <br>
 from antagonistic_game.matrix_game import nash_equilibrium <br>
 from antagonistic_game.matrix_game import visualize <br>
