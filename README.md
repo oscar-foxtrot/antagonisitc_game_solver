@@ -1,5 +1,7 @@
 This package is intended to be used for zero-sum (=antagonistic) matrix game solving and visualization of the solutions.
 
+See [this notebook] for illustrations 
+
 What to include?
 from antagonistic_game.matrix_game import nash_equilibrium
 from antagonistic_game.matrix_game import visualize
