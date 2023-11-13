@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from package.matrix_game import nash_equilibrium
+from antagonistic_game.matrix_game import nash_equilibrium
 
 class TestNash(unittest.TestCase):
     
