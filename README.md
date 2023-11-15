@@ -1,4 +1,4 @@
-This package is intended to be used for zero-sum (=antagonistic) matrix game solving and visualization of the solutions. <br>
+This Python package is intended to be used for zero-sum (=antagonistic) matrix game solving and visualization of the solutions. <br>
 
 See [the Jupyter notebook](https://github.com/oscar-foxtrot/antagonistic_game_solver/blob/main/Workflow.ipynb) for examples and illustrations 🎨 <br>
 
