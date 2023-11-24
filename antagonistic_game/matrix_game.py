@@ -150,7 +150,7 @@ def nash_equilibrium(payoff_matrix: np.ndarray) -> \
     return (1/value - correcting_val, p, q)
 
 
-def visualize(matrix: np.ndarray, spectrum: Tuple[np.ndarray, np.ndarray]):
+def visualize(matrix: np.ndarray, spectrum: Tuple[np.ndarray, np.ndarray]) -> None:
     """
     Visualizes the spectrum of optimal strategies
     of the matrix game with the "spectrum" spectrum
