@@ -14,5 +14,5 @@ How does it work?
 nash_equilibrium(payoff_matrix: np.ndarray) -> Tuple[float, np.ndarray, np.ndarray] <br>
 - "visualize" function visualizes solutions. Takes two parameters: the game matrix and a tuple of 2 elements: a numpy array of the first player's strategies and a numpy array of the second player's strategies. <br>
 visualize(matrix: np.ndarray, spectrum: Tuple[np.ndarray, np.ndarray]) -> None <br> <br>
-Enjoy using <3
+Enjoy using ❤️
 
